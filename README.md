@@ -17,4 +17,4 @@ Or run using PHP's built in web server:
 
 Browse to a URL, with the YouTube ID at the end.
 If the ID is found then a Redirect response is returned
-with the URL to play the file.
+with the URL to play the file. Eg `http://localhost:8080/RiLe43yIONI`.
