@@ -1,0 +1,13 @@
+{
+  "require": {
+    "ideationnet/wafer": "^0.1.0"
+  },
+  "require-dev": {
+    "franzl/studio": "^0.12.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "YtProxy\\": "src"
+    }
+  }
+}
